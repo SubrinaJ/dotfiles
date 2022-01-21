@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = subrinajoseph@hotmail.com
+	name = Subrina Joseph
